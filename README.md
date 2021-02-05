@@ -1,3 +1,5 @@
+I forked this repo and made personalized modifications. Don't use this repo. Use MatMoul's.
+
 # archfi
 
 Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
@@ -18,11 +20,7 @@ Then make sure you have Internet connection on the Arch iso. If you have a wirel
 
 Then download the script with from the command line:
 
-    curl -L archfi.sf.net/archfi > archfi
-
-If SourceForge is down, use this instead:
-
-    curl -L matmoul.github.io/archfi > archfi
+    curl -L raw.githubusercontent.com/7db9a/personal_archfi/master/archfi > archfi
 
 Finally, launch the script:
 
